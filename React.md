@@ -284,6 +284,11 @@ export default FetchComponet;
 > 保存文件，用 npm start 启动项目，输入 localhost:3000 页面将会呈现如下内容：
 
 
+### react-router 路由 
+https://www.jianshu.com/p/d4c42e5a5dfc
+
+### react-redux
+https://www.jianshu.com/p/a735096f3eda
 
 ### 参考文章
 
